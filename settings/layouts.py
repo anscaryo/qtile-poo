@@ -1,10 +1,12 @@
 from libqtile import layout
 from libqtile.config import Match
-from .widgets import colors
+from .colors import init_colors
+
 
 #-----------------------------------------------------------------------
 #   Layouts
 #-----------------------------------------------------------------------
+colors = init_colors()
 
 
 def init_layout_theme():

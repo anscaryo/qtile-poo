@@ -17,7 +17,7 @@ def init_colors():
         ]
 
 
-if __name__ == 'colors':
+if __name__ == "colors":
 
     colors = init_colors()
 
