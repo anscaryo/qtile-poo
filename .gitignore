@@ -1,0 +1,9 @@
+#archivo a ignorar
+config.backup
+/copias
+__pycache__/
+script/picom/old_picom.conf
+gpt_config.py
+config_arco.py
+
+config.py.bkp
