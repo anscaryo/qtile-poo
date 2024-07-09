@@ -1,4 +1,4 @@
-from libqtile import widget
+from libqtile import widget, qtile
 from .colors import init_colors
 
 colors = init_colors()
