@@ -7,3 +7,4 @@ gpt_config.py
 config_arco.py
 
 config.py.bkp
+script/autostart_arco.sh

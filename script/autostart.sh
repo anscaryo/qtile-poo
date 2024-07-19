@@ -19,6 +19,7 @@ udiskie -t &
 nm-applet &
 volumeicon &
 cbatticon -u 5 -p &
+xfce4-power-manager &
 #screenout.sh &
 blueberry-tray &
 
